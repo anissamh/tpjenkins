@@ -27,5 +27,3 @@ pipeline {
         }
     }
 }
-
-hiii

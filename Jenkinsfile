@@ -21,7 +21,7 @@ pipeline {
         stage('Deploy') {
             steps {
                 echo "Déploiement du projet"
-                sh "node test.js"
+                sh "node hello.js"
 // Ajoutez les commandes de déploiement ici
             }
         }
